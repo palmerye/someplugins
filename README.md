@@ -12,10 +12,10 @@ Hint: 在微信里打开的时候，偶尔会打不开（如果莫名其妙被�
 - Count Down 抽奖倒计时
 - ~~也许~~以后会堆一些好玩的
 
-![image](http://ohce3yxd6.bkt.clouddn.com/someplugins/1.gif)
-![image](http://ohce3yxd6.bkt.clouddn.com/someplugins/2.gif)
-![image](http://ohce3yxd6.bkt.clouddn.com/someplugins/3.gif)
-![image](http://ohce3yxd6.bkt.clouddn.com/someplugins/4.gif)
+![image](http://ohce3yxd6.bkt.clouddn.com/someplugins/1.gif?imageView2/2/w/200/h/500/interlace/0/q/100)
+![image](http://ohce3yxd6.bkt.clouddn.com/someplugins/2.gif?imageView2/2/w/200/h/500/interlace/0/q/100)
+![image](http://ohce3yxd6.bkt.clouddn.com/someplugins/3.gif?imageView2/2/w/200/h/500/interlace/0/q/100)
+![image](http://ohce3yxd6.bkt.clouddn.com/someplugins/4.gif?imageView2/2/w/200/h/500/interlace/0/q/100)
 
 ## 项目结构
 vue全家桶 + webpack + sass
