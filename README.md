@@ -52,4 +52,4 @@ index: path.resolve(__dirname, '../leancloud/views/index.ejs'), // index.html(.e
 
 温故而知新，~~可以为师也~~
 
-也欢迎来[我的blog](http://note.youdao.com/palmerye.online)转转，[Repository](https://github.com/palmerye/palmer-blog)也放在github上
+也欢迎来[我的blog](http://palmerye.online)转转，[Repository](https://github.com/palmerye/palmer-blog)也放在github上
